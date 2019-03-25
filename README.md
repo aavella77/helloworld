@@ -5,4 +5,4 @@ A Java Hello World application in a Docker container.
 `docker run aavella77/helloworld`
 
 # Docker Hub
-[docker hub aavella](https://cloud.docker.com/repository/docker/aavella77/helloworld)
+[docker hub aavella](https://hub.docker.com/r/aavella77/helloworld)
